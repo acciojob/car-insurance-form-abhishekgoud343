@@ -1,2 +1,30 @@
-
 /* Your CSS Code here. */
+div {
+	padding : 40px;
+	padding-right : 10px;
+	width : 300px;
+	background :pink;
+	align : center;
+}
+
+button[type=submit] {
+	border : none;
+	background : green;
+	color : white;
+	padding : 8px 32px;
+	margin : 0px 75px;
+}
+
+input:not([type=radio]) {
+	margin : 0px 5px;
+	padding : 2px;
+	width : 180px;;
+}
+
+#carage {
+	width : 36px;
+}
+
+#dop {
+	width : 100px;
+}
